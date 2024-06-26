@@ -1,3 +1,4 @@
 # demoproject
+
 This is my first git repository
-Author- Mayank kumar
+Author- Mayank kumar (Javascript)
